@@ -1,0 +1,16 @@
+pandas
+cassio
+datasets
+langchain
+tiktoken
+astrapy
+PyPDF2
+langchain-community
+python-dotenv
+langchain_huggingface
+huggingface_hub[hf_xet]
+langchain_groq
+streamlit
+langchain-chroma
+pypdf
+# grpc
